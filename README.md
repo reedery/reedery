@@ -6,7 +6,7 @@ I am a creative tool-maker working with computer graphics software. I've always 
  ## 🚀 What I Do
 
 - Product Engineering in realtime, offline and neural graphics-related projects.
-- Technical Sales/Growth work: GTM/Forward-Deployed Engineering, Developer Advocacy and Technical Content Creation.
+- Technical Sales/Growth-- GTM/Forward-Deployed Engineering, Developer Advocacy and Technical Content Creation.
 
 ## 💡 Previously
 
