@@ -1,8 +1,10 @@
-# Hello, I am Ryan 👋 
-## [🚦open to new roles]
+# Hello, I am Ryan. Bienvenue !
 
-I am a creative tool-maker with 10 years of experience building + scaling computer-graphics based software products. I have always been fascinated by computer programs that draw pictures and I am currently exploring interactive & temporal Gaussian Splatting. 
+[open to full-time roles]
 
+I am a creative tool-maker with 10 years of experience building + scaling computer-graphics based software products. I have always been fascinated by computer programs that draw pictures and am currently exploring interactive & temporal Gaussian Splatting. 
+
+📍 Paris, FR
  
 ## 💡 Previously
 
@@ -13,7 +15,7 @@ I am a creative tool-maker with 10 years of experience building + scaling comput
 ## 🚀 What I Do
 
 - Product Engineering in realtime, offline and neural graphics-related projects.
-- Technical Sales work: Implementation/Growth/GTM/Forward-Deployed Engineering, Developer Advocacy, Developer Guides and Content Creation.
+- Technical Sales/Growth work: GTM/Forward-Deployed Engineering, Developer Advocacy and Technical Content Creation.
 
 ## 🌐 Find Me Online
 
@@ -21,5 +23,4 @@ I am a creative tool-maker with 10 years of experience building + scaling comput
 - Reach out to me via [email](mailto:reede.ryan@gmail.com)
 
 ---
-
-* if we have similar interests, reach out to me! *
+![cest-moi](ryan-bike.jpg)
