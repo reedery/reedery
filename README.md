@@ -1,10 +1,8 @@
-# Hello, I am Ryan. Bienvenue !
-
-[open to full-time roles]
+# Hello, I am Ryan.
 
 I am a creative tool-maker with 10 years of experience building + scaling computer-graphics based software products. I have always been fascinated by computer programs that draw pictures and am currently exploring interactive & temporal Gaussian Splatting. 
 
-📍 Paris, FR
+📍 Paris, FR - Currently exploring full-time roles
  
 ## 💡 Previously
 
@@ -23,4 +21,4 @@ I am a creative tool-maker with 10 years of experience building + scaling comput
 - Reach out to me via [email](mailto:reede.ryan@gmail.com)
 
 ---
-![cest-moi](ryan-bike.jpeg)
+![cest-moi](ryan-at-desk.jpeg)
