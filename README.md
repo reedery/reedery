@@ -21,4 +21,4 @@ I am a creative tool-maker with 10 years of experience building + scaling comput
 - Reach out to me via [email](mailto:reede.ryan@gmail.com)
 
 ---
-![cest-moi](ryan-at-desk.jpeg)
+![cest-moi](ryan-at-desk.jpg)
