@@ -20,6 +20,3 @@ Creative tool-maker with 10yr experience building & scaling computer graphics so
 
 - Portfolio: [reedery.github.io](https://reedery.github.io/)
 - Reach out to me via [email](mailto:reede.ryan@gmail.com)
-
----
-![moi](ryan-at-desk.jpg)
