@@ -2,7 +2,6 @@
 
 Creative tool-maker with 10yr experience building & scaling computer graphics software products. I've always been fascinated by computer programs that draw pictures and am currently exploring interactive & temporal Gaussian Splatting. 
 
-📍 Paris, FR
 
  ## 🚀 What I Do
 
