@@ -1,9 +1,8 @@
-# I'm Ryan 👋 
-## [Open to new roles]
+# Hello, I am Ryan 👋 
+## [🚦open to new roles]
 
 I am a creative tool-maker with 10 years of experience building + scaling computer-graphics based software products. I have always been fascinated by computer programs that draw pictures and I am currently exploring interactive & temporal Gaussian Splatting. 
 
-![cest_moi](https://reedery.github.io/images/rr-beats-gradient.jpg)
  
 ## 💡 Previously
 
