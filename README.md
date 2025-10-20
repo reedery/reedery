@@ -1,16 +1,26 @@
-## Hi there 👋
+# I'm Ryan 👋 
+## [Open to new roles]
 
-<!--
-**reedery/reedery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a creative tool-maker with 10 years of experience building + scaling computer-graphics based software products. I have always been fascinated by computer programs that draw pictures and I am currently exploring interactive & temporal Gaussian Splatting. 
 
-Here are some ideas to get you started:
+![cest_moi](https://reedery.github.io/images/rr-beats-gradient.jpg)
+ 
+## 💡 Previously
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I worked on [OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) infrastructure at DreamWorks Animation.
+- Built AI/3D Animation [storytelling software](https://www.youtube.com/@MovieBotTV) that reached ~2M young creators.
+- Built interactive 3D [Education Technology](https://viewer.10k.science) for high school students to better visualize science. 
+
+## 🚀 What I Do
+
+- Product Engineering in realtime, offline and neural graphics-related projects.
+- Technical Sales work: Implementation/Growth/GTM/Forward-Deployed Engineering, Developer Advocacy, Developer Guides and Content Creation.
+
+## 🌐 Find Me Online
+
+- Portfolio: [reedery.github.io](https://reedery.github.io/)
+- Reach out to me via [email](mailto:reede.ryan@gmail.com)
+
+---
+
+* if we have similar interests, reach out to me! *
