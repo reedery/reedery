@@ -1,6 +1,6 @@
 # Hello, I am Ryan.
 
-Creative tool-maker with 10yr experience building & scaling computer graphics software products. I've always been fascinated by computer programs that draw pictures and am currently exploring interactive & temporal Gaussian Splatting. 
+I am a creative tool-maker working with computer graphics software. I've always been fascinated by programs that draw pictures and am currently exploring interactive & temporal Gaussian Splatting. 
 
 
  ## 🚀 What I Do
