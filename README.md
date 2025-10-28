@@ -1,12 +1,13 @@
 # Hello, I am Ryan.
 
-I am a creative tool-maker working with computer graphics software. I've always been fascinated by programs that draw pictures and am currently exploring interactive & temporal Gaussian Splatting. 
+I am a creative tool-maker fascinated by programs that draw pictures. Currently exploring interactive & temporal Gaussian Splatting. 
 
 
  ## 🚀 What I Do
 
 - Product Engineering in realtime, offline and neural graphics-related projects.
 - Technical Sales/Growth-- GTM/Forward-Deployed Engineering, Developer Advocacy and Technical Content Creation.
+- **Actively exploring new full-time roles**
 
 ## 💡 Previously
 
