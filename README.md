@@ -6,8 +6,8 @@ I am a creative tool-maker fascinated by programs that draw pictures. Currently 
  ## 🚀 What I Do
 
 - Product Engineering in realtime, offline and neural graphics-related projects.
-- Technical Sales/Growth-- GTM/Forward-Deployed Engineering, Developer Advocacy and Technical Content Creation.
-- **Actively exploring new full-time roles**
+- Product Management, Growth/Fwd-deployed Engineering, Technical Sales/Solutions Eng, Technical Content Creation.
+- **Actively exploring new full-time roles with start-ups**
 
 ## 💡 Previously
 
