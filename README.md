@@ -1,6 +1,6 @@
 # Hello, I am Ryan.
 
-I am a creative tool-maker fascinated by programs that draw pictures. Currently exploring interactive & temporal Gaussian Splatting. 
+I am a creative builder fascinated by new paradigms. Experienced in computer graphics, cretive tools, spatial computing and education technology. Currently exploring interactive & temporal Gaussian Splatting. 
 
 
  ## 🚀 What I Do
