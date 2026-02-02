@@ -7,7 +7,7 @@ I am a creative builder fascinated by new paradigms. Experienced in computer gra
 
 - Product Engineering in realtime & offline graphics-related projects.
 - Growth/Fwd-deployed Engineering, Technical Solutions Eng, Technical Content Creation.
-- 
+  
 ## 💡 Previously
 
 - Built AI/3D Animation [storytelling software](https://www.youtube.com/@MovieBotTV) that reached ~2M young creators.
