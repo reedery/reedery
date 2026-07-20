@@ -1,13 +1,7 @@
 # Hello, I am Ryan.
 
-I am a creative builder fascinated by new paradigms. Experienced in computer graphics, cretive tools, spatial computing and education technology. Currently exploring interactivity and editing tools for Gaussian Splats. 
+I am a creative tools developer fascinated by new paradigms. Experienced in computer graphics, cretive tools, spatial computing and education technology. Currently applying VLMs to video editing workflows.
 
-
- ## 🚀 What I Do
-
-- Product Engineering in realtime & offline graphics-related projects.
-- Growth/Fwd-deployed Engineering, Technical Solutions Eng, Technical Content Creation.
-  
 ## 💡 Previously
 
 - Built AI/3D Animation [storytelling software](https://www.youtube.com/@MovieBotTV) that reached ~2M young creators.
